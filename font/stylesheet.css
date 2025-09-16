@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('MyriadPro-Regular.eot');
+    src: url('MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MyriadPro-Regular.woff2') format('woff2'),
+        url('MyriadPro-Regular.woff') format('woff'),
+        url('MyriadPro-Regular.ttf') format('truetype'),
+        url('MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PF Agora Sans Pro';
+    src: url('PFAgoraSansPro-Regular.eot');
+    src: url('PFAgoraSansPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('PFAgoraSansPro-Regular.woff2') format('woff2'),
+        url('PFAgoraSansPro-Regular.woff') format('woff'),
+        url('PFAgoraSansPro-Regular.ttf') format('truetype'),
+        url('PFAgoraSansPro-Regular.svg#PFAgoraSansPro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PF Agora Sans Pro UltraBlack';
+    src: url('PFAgoraSansPro-UltraBlack.eot');
+    src: url('PFAgoraSansPro-UltraBlack.eot?#iefix') format('embedded-opentype'),
+        url('PFAgoraSansPro-UltraBlack.woff2') format('woff2'),
+        url('PFAgoraSansPro-UltraBlack.woff') format('woff'),
+        url('PFAgoraSansPro-UltraBlack.ttf') format('truetype'),
+        url('PFAgoraSansPro-UltraBlack.svg#PFAgoraSansPro-UltraBlack') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PF Agora Sans Pro XThin';
+    src: url('PFAgoraSansPro-XThin.eot');
+    src: url('PFAgoraSansPro-XThin.eot?#iefix') format('embedded-opentype'),
+        url('PFAgoraSansPro-XThin.woff2') format('woff2'),
+        url('PFAgoraSansPro-XThin.woff') format('woff'),
+        url('PFAgoraSansPro-XThin.ttf') format('truetype'),
+        url('PFAgoraSansPro-XThin.svg#PFAgoraSansPro-XThin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
